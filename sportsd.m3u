@@ -59,6 +59,11 @@ http://203.81.84.130/hls/mwd_serie/index.m3u8
 http://183.89.246.119:8881/play/a07t/index.m3u8
 #EXTINF:-1group-title="MYN",5plus
 http://183.89.246.119:8881/play/a07w/index.m3u8
+#EXTINF:-1group-title="MYN",Channel7
+https://pp-live.b-cdn.net/bcdn_token=lbtypcynA5cHSYqg_oA_Can-CjIl0pVOeNaswQIVubY&expires=1694564242&token_path=%2FLiveApp%2F/LiveApp/streams/GZ7f8XBrt4dI1677679357590.m3u8
+
+Mrtv#EXTINF:-1group-title="MYN",Mrtv4
+https://pp-live.b-cdn.net/bcdn_token=ZqSC-ffh_RJof5jqWQCUpB8iiF1g-JNUDVYNJFxVFcU&expires=1694561255&token_path=%2FLiveApp%2F/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8
 #EXTINF:-1group-title="SPORTS",OnFootball
 https://live2onsport.vtvcab.vn/dash/BONGDA_HD/m30_index.m3u8
 #EXTINF:-1group-title="SPORTS",Viaplayextra
