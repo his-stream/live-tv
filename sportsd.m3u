@@ -37,6 +37,30 @@ https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
 https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
 #EXTINF:-1,Sony Sport5
 https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
+#EXTINF:-1group-title="MYN",MAHAR 
+https://tv.mahar.live/mahar/website.stream/playlist.m3u8
+#EXTINF:-1group-title="MYN",MNTV 
+https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_hi/index.m3u8 
+#EXTINF:-1group-title="MYN",Channel9
+http://183.89.246.119:8881/play/a07y/index.m3u8
+#EXTINF:-1group-title="MYN",ChannelK 
+https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi84LzIwMjIgMzozMTo0OSBBTSZoYXNoX3ZhbHVlPUJBSG54TklSSVJ0T3UyRnN5NGdFMWc9PSZ2YWxpZG1pbnV0ZXM9MjUmc3RybV9sZW49MTg=
+#EXTINF:-1group-title="MYN",YTV
+http://183.89.246.119:8881/play/a081/index.m3u8
+#EXTINF:-1group-title="MYN",FORTUNE
+http://183.89.246.119:8881/play/a082/index.m3u8
+#EXTINF:-1group-title="MYN",GoldenLand
+http://203.81.84.130/hls/mwd_document/index.m3u8
+#EXTINF:-1group-title="MYN",TVM
+http://203.81.84.130/hls/mwd_serie/index.m3u8
+#EXTINF:-1group-title="MYN",WAF
+http://203.81.84.130/hls/mwd_shopping/index.m3u8
+#EXTINF:-1group-title="MYN",Channelme
+http://183.89.246.119:8881/play/a07t/index.m3u8
+#EXTINF:-1group-title="MYN",5plus
+http://183.89.246.119:8881/play/a07w/index.m3u8
+
+
 #EXTINF:-1,
 
 
