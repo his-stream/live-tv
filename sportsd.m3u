@@ -53,8 +53,6 @@ http://183.89.246.119:8881/play/a082/index.m3u8
 http://203.81.84.130/hls/mwd_document/index.m3u8
 #EXTINF:-1group-title="MYN",TVM
 http://203.81.84.130/hls/mwd_serie/index.m3u8
-#EXTINF:-1group-title="MYN",WAF
-http://203.81.84.130/hls/mwd_shopping/index.m3u8
 #EXTINF:-1group-title="MYN",Channelme
 http://183.89.246.119:8881/play/a07t/index.m3u8
 #EXTINF:-1group-title="MYN",5plus
