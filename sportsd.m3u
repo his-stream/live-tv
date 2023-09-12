@@ -59,8 +59,6 @@ http://203.81.84.130/hls/mwd_serie/index.m3u8
 http://183.89.246.119:8881/play/a07t/index.m3u8
 #EXTINF:-1group-title="MYN",5plus
 http://183.89.246.119:8881/play/a07w/index.m3u8
-#EXTINF:-1group-title="SPORTS",Live
-https://d3awaj0f2u3w26.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/8fd3efae-4468-4ca0-9486-c6cdcb7b65d7/2.m3u8
 #EXTINF:-1group-title="SPORTS",OnFootball
 https://live2onsport.vtvcab.vn/dash/BONGDA_HD/m30_index.m3u8
 #EXTINF:-1group-title="SPORTS",Viaplayextra
@@ -77,8 +75,6 @@ https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
 https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
 #EXTINF:-1group-title="SPORTS",TEN 5 (SONY LIV)
 https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
-#EXTINF:-1group-title="SPORTS",Live
-https://d3awaj0f2u3w26.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/8fd3efae-4468-4ca0-9486-c6cdcb7b65d7/2.m3u8
 
 #EXTINF:-1,
 
