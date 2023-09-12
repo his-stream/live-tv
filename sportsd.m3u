@@ -39,6 +39,8 @@ https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
 https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
 #EXTINF:-1,Sony Sport5
 https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
+#EXTINF:-1group-title="MYN",Maharbawdi
+https://pp-live.b-cdn.net/bcdn_token=OV7wEFsvwp60D-BPt0rePCyzMHtC1l_9Q5JDnRmTWC0&expires=1694564686&token_path=%2FLiveApp%2F/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8
 #EXTINF:-1group-title="MYN",MAHAR 
 https://tv.mahar.live/mahar/website.stream/playlist.m3u8
 #EXTINF:-1group-title="MYN",MNTV 
@@ -61,7 +63,6 @@ http://183.89.246.119:8881/play/a07t/index.m3u8
 http://183.89.246.119:8881/play/a07w/index.m3u8
 #EXTINF:-1group-title="MYN",Channel7
 https://pp-live.b-cdn.net/bcdn_token=lbtypcynA5cHSYqg_oA_Can-CjIl0pVOeNaswQIVubY&expires=1694564242&token_path=%2FLiveApp%2F/LiveApp/streams/GZ7f8XBrt4dI1677679357590.m3u8
-
 #EXTINF:-1group-title="MYN",Mrtv4
 https://pp-live.b-cdn.net/bcdn_token=ZqSC-ffh_RJof5jqWQCUpB8iiF1g-JNUDVYNJFxVFcU&expires=1694561255&token_path=%2FLiveApp%2F/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8
 #EXTINF:-1group-title="SPORTS",OnFootball
