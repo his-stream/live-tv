@@ -57,9 +57,75 @@ http://203.81.84.130/hls/mwd_serie/index.m3u8
 http://183.89.246.119:8881/play/a07t/index.m3u8
 #EXTINF:-1group-title="MYN",5plus
 http://183.89.246.119:8881/play/a07w/index.m3u8
-
+#EXTINF:-1group-title="SPORTS",Live
+https://d3awaj0f2u3w26.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/8fd3efae-4468-4ca0-9486-c6cdcb7b65d7/2.m3u8
+#EXTINF:-1group-title="SPORTS",OnFootball
+https://live2onsport.vtvcab.vn/dash/BONGDA_HD/m30_index.m3u8
+#EXTINF:-1group-title="SPORTS",Viaplayextra
+https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
 
 #EXTINF:-1,
 
 
-
+#EXTINF:-1 tvg-logo="https://www.mflixth.com//mfmposter/985855.jpg" group-title="MMSUBMOVIES",Fall
+https://mcdrive.org/StreamVD/Registered/V79OSIE0d6ftr8Fq4Nyx/Streams/Fall(2022)(1080p)/Wp2cM5jiZvB7DTNCEAw4.m3u8
+#EXTINF:-1 tvg-logo="https://mflixth.com/mfmposter/615916.jpg" group-title="MMSUBMOVIES",HansanRising
+https://mcdrive.org/StreamVD/Registered/V79OSIE0d6ftr8Fq4Nyx/Streams/HansanRisingDragon(2022)(720p)/PYm5uw4CpIkBb03TvigU.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODQyMjMwNTMtMjA4YS00MGI4LTkxOWItZWI1YTViNmE5ZWUwXkEyXkFqcGdeQXVyMTQwODg1NTU3._V1_FMjpg_UX1000_.jpg" group-title="MMSUBMOVIES",TheRoundup
+http://www.zegomovie.com/Videos/TheRoundup/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmMxZWRiMTgtZjM0Ny00NDQxLWIxYWQtZDdlNDNkOTEzYTdlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" group-title="MMSUBMOVIES",ThorGodofThunder2022
+http://www.zegomovie.com/Videos/ThorLoveandThunder/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNWM0ZGJlMzMtZmYwMi00NzI3LTgzMzMtNjMzNjliNDRmZmFlXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg" group-title="MMSUBMOVIES",DoctorStrange
+http://www.zegomovie.com/Videos/DoctorStrangeintheMultiverseofMadness/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGNjYjQ3NjgtZWM0NS00MTY5LTlkZWMtODZlNzhkNTU3MzZiXkEyXkFqcGdeQXVyMjM2OTI3Mzk@._V1_.jpg" group-title="MMSUBMOVIES",Interceptor
+http://www.zegomovie.com/Videos/Interceptor/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWI2ODNjMDktZjcxNS00YThkLTljMDUtMGIyOTg3ZjY2MjlhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg" group-title="MMSUBMOVIES",Major2022
+http://www.zegomovie.com/Videos/Major/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTBjMjA4NmYtN2RjMi00YWZlLTliYTktOTIwMmNkYjYxYmE1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg" group-title="MMSUBMOVIES",Jurassic World2022
+http://www.zegomovie.com/Videos/JurassicWorldDominion/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNWQ2ODk1YmUtZWI0NC00YWU0LWE5ODctY2U4NTFhMWI0ZGI3XkEyXkFqcGdeQXVyNDA1NDA2NTk@._V1_.jpg" group-title="MMSUBMOVIES",BlowBlack2022
+http://www.zegomovie.com/Videos/Blowback/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWRiNGNiM2ItYTM4ZS00ZDBhLWE5NGEtMzNkOGUyN2U4NTFjXkEyXkFqcGdeQXVyMjUxMDgwNA@@._V1_.jpg" group-title="MMSUBMOVIES",IronCross TheRoadNormandy2022
+http://www.zegomovie.com/Videos/IronCrossTheRoadtoNormandy/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmFjMjBkMzQtMDJmZi00NjJiLWI1ZTEtMjJkYTE1ZTZhMTliXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg" group-title="MMSUBMOVIES",Beast2022
+http://www.zegomovie.com/Videos/Beast2022/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzY1NTRhZDgtZGQyMi00OTQ1LWFhMmMtMmJhMTZhMjZhNDQ0XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg" group-title="MMSUBMOVIES",KGFChapter2
+http://www.zegomovie.com/Videos/KGFChapter2/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzZjNjUzOGMtZjE1OC00MjQ1LThjNzgtYjNlNWEzYThlMjgzXkEyXkFqcGdeQXVyMTAyNTQ0MzI1._V1_.jpg" group-title="MMSUBMOVIES",9Bullets
+http://www.zegomovie.com/Videos/9Bullets/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWEwMWQ2NmItZTdlNi00ZDQ1LWE0OWItODA0ODhjYzZlY2JjXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg" group-title="MMSUBMOVIES",Ghani2022
+http://www.zegomovie.com/Videos/Ghani/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTliM2M5MjktZmY2NC00NjdlLWE5YzUtNDU2NzA0MzkyMDNlXkEyXkFqcGdeQXVyMTE1Nzg4NjY0._V1_FMjpg_UX1000_.jpg" group-title="MMSUBMOVIES",TheVault2021
+http://www.zegomovie.com/Videos/TheVault/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmIwYzFhODAtY2I1YS00ZDdmLTkyYWQtZjI5NDIwMDc2MjEyXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg" group-title="MMSUBMOVIES",TheLostCity
+http://www.zegomovie.com/Videos/TheLostCity/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWEwNjhkYzYtNjgzYy00YTY2LThjYWYtYzViMGJkZTI4Y2MyXkEyXkFqcGdeQXVyNTM0OTY1OQ@@._V1_FMjpg_UX1000_.jpg" group-title="MMSUBMOVIES",Uncharted
+http://www.zegomovie.com/Videos/Uncharted/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTIzMjY3NDItNzAxMS00YTc5LWE3N2EtMDBmNDAwMDQ2NzE4XkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_FMjpg_UX1000_.jpg" group-title="MMSUBMOVIES",OhMyDog
+http://www.zegomovie.com/Videos/OhMyDog/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/249129511/s718/etharkkum-thunindhavan.%7Bformat%7D" group-title="MMSUBMOVIES",EtharkkumThunindhavan
+http://www.zegomovie.com/Videos/EtharkkumThunindhavan/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTgwZjhmMWUtMGNiYS00YzM1LTg0NzYtNjI2YTI1MzVjNWU3XkEyXkFqcGdeQXVyMTMzNzA4MTMx._V1_FMjpg_UX1000_.jpg" group-title="MMSUBMOVIES",SuperMachi
+http://www.zegomovie.com/Videos/SuperMachi/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmVlNzkzNWYtNmIxZi00NjI1LWI1NDktNzQ2ZjFiNjc2ZjY0XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg" group-title="MMSUBMOVIES",Morbius
+http://www.zegomovie.com/Videos/Morbius/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGQ3ZjMwZDctZTFkMi00ZjUwLTlmMDUtNDZlYzJjNzZiNTg5XkEyXkFqcGdeQXVyMTMzODk3NDU0._V1_.jpg" group-title="MMSUBMOVIES",RRR
+http://www.zegomovie.com/Videos/RRR/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjg0NGQzYjEtNTlhNy00ZTllLTgzZTgtZDM0NWU5NzFmY2EwXkEyXkFqcGdeQXVyMTA3MTI2ODc5._V1_.jpg" group-title="MMSUBMOVIES",Restless
+http://www.zegomovie.com/Videos/Restless/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.mydramalist.com/2KodE_4f.jpg" group-title="MMSUBMOVIES",AnotherMe
+http://www.zegomovie.com/Videos/AnotherMe/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/hHenEb0Pv9DzxuPFFqbKqWMNArz.jpg" group-title="MMSUBMOVIES",AManCalledHero
+http://www.zegomovie.com/Videos/AManCalledHero/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzM5OWQyZWQtNWQ1OS00MWNkLWFiNGYtZGFlZDY0OTNhMDg4XkEyXkFqcGdeQXVyMTE0MzQwMjgz._V1_.jpg" group-title="MMSUBMOVIES",GasolineAlley
+http://www.zegomovie.com/Videos/GasolineAlley/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYThjYTkxNDUtMWM3NC00MWEzLTg1NWEtY2E4YmEwM2E5OThlXkEyXkFqcGdeQXVyNDM1ODc2NzE@._V1_.jpg" group-title="MMSUBMOVIES",ProjectGemini
+http://www.zegomovie.com/Videos/ProjectGemini/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGnoZrN3h-UDacY0wTC-ZNr9JfPto-fHFbJryEZKKQa5pUNEc&s" group-title="MMSUBMOVIES",Vesper2022
+https://mcdrive.org/StreamVD/Registered/V79OSIE0d6ftr8Fq4Nyx/Streams/Vesper(2022)(720p)/7PgKDNk5czbZT6ACIM0a.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzc3MzZmNTEtNzdlMy00NTkyLWIzYmMtNzA1YmY4MTMxOTg3XkEyXkFqcGdeQXVyNjk1NzU1Mjk@._V1_.jpg" group-title="MMSUBMOVIES",Hunt2022
+https://mcdrive.org/StreamVD/Registered/V79OSIE0d6ftr8Fq4Nyx/Streams/Hunt2022(480p)/EflpBnk8RXdbrG0wCZ9e.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDU2ZmM2OTYtNzIxYy00NjM5LTliNGQtN2JmOWQzYTBmZWUzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" group-title="MMSUBMOVIES",BulletTrain2022
+https://mcdrive.org/StreamVD/Registered/V79OSIE0d6ftr8Fq4Nyx/Streams/BulletTrain(2022)(480p)/HYO3P9nk1hbvxg7MwipZ.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWY1YTA2NzUtMGQ3OS00YTE2LWJhNDgtYjFhOGQ1YWM0NDUwXkEyXkFqcGdeQXVyMTEzNzg0Mjkx._V1_.jpg" group-title="MMSUBMOVIES",Poikkalkuthirai
+https://mcdrive.org/StreamVD/Registered/V79OSIE0d6ftr8Fq4Nyx/Streams/PoikkalKuthirai(2022)(480p)/AvDcFpybNZUl18oMxTnO.m3u8
