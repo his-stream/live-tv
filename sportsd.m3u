@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,Live SD
+https://pull.niues.live/live/stream-9912053_lsd.m3u8?auth_key=1694459862-0-0-14579e683afe19890c4c8a4c55b71ced
 #EXTINF:-1,Live
 https://pull.niues.live/live/stream-9912053_lhd.m3u8?auth_key=1694451642-0-0-744961c864171bd2e4f7b041e1dddfa3
 #EXTINF:-1,Love Nature 4K
