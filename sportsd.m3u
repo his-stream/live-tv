@@ -1,4 +1,30 @@
 #EXTM3U
+#EXTINF:-1,BZ MRTVHD
+https://5a13fe32ef748.streamlock.net/mmplay/mrtv/playlist.m3u8
+#EXTINF:-1,BZ CHANNEL7
+https://5a13fe32ef748.streamlock.net/mmplay/channel7/playlist.m3u8
+#EXTINF:-1,BZ MRTV4
+https://5a13fe32ef748.streamlock.net/mmplay/mrtv-4/playlist.m3u8
+#EXTINF:-1,BZ CHANNELME
+https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/playlist.m3u8
+#EXTINF:-1,BZ 5PLUS
+https://5a13fe32ef748.streamlock.net/mmplay/5plus/playlist.m3u8
+#EXTINF:-1,BZ CHANNELK
+https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream.m3u8
+#EXTINF:-1,BZ DVB
+https://www.dailymotion.com/cdn/live/video/x8e61qj.m3u8?sec=TZkQaBVi_w4yxv68hWndvhBSgZK7ezReeUf25voRek6TUpYpw6nYN2g0pBxCR02s&dmTs=337559&dmV1st=e704af9c-7ddd-4e15-9076-ccf1c8957316
+#EXTINF:-1,BZ MAHAR
+https://tv.mahar.live/mahar/website.stream/playlist.m3u8
+#EXTINF:-1,BZ HLUTTAW
+https://5a13fe32ef748.streamlock.net/mmplay/hluttaw/playlist.m3u8
+#EXTINF:-1,BZ MITV
+https://5a13fe32ef748.streamlock.net/mmplay/mitv/playlist.m3u8
+#EXTINF:-1,BZ MNTV 1
+https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
+#EXTINF:-1,BZ MNTV 2
+https://5a13fe32ef748.streamlock.net/mmplay/mntv/playlist.m3u8
+#EXTINF:-1,BZ MNTV 3
+https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_mobile/index.m3u8
 #EXTINF:-1,BZ Live SD
 https://pull.niues.live/live/stream-9912053_lsd.m3u8?auth_key=1694459862-0-0-14579e683afe19890c4c8a4c55b71ced
 #EXTINF:-1,BZ Live
@@ -55,8 +81,6 @@ https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
 https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
 #EXTINF:-1,Sony Sport5
 https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
-#EXTINF:-1group-title="MYN",Maharbawdi
-https://pp-live.b-cdn.net/bcdn_token=OV7wEFsvwp60D-BPt0rePCyzMHtC1l_9Q5JDnRmTWC0&expires=1694564686&token_path=%2FLiveApp%2F/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8
 #EXTINF:-1group-title="MYN",MAHAR 
 https://tv.mahar.live/mahar/website.stream/playlist.m3u8
 #EXTINF:-1group-title="MYN",MNTV 
@@ -77,11 +101,6 @@ http://203.81.84.130/hls/mwd_serie/index.m3u8
 http://183.89.246.119:8881/play/a07t/index.m3u8
 #EXTINF:-1group-title="MYN",5plus
 http://183.89.246.119:8881/play/a07w/index.m3u8
-#EXTINF:-1group-title="MYN",Channel7
-https://pp-live.b-cdn.net/bcdn_token=lbtypcynA5cHSYqg_oA_Can-CjIl0pVOeNaswQIVubY&expires=1694564242&token_path=%2FLiveApp%2F/LiveApp/streams/GZ7f8XBrt4dI1677679357590.m3u8
-
-#EXTINF:-1group-title="MYN",Mrtv4
-https://pp-live.b-cdn.net/bcdn_token=ZqSC-ffh_RJof5jqWQCUpB8iiF1g-JNUDVYNJFxVFcU&expires=1694561255&token_path=%2FLiveApp%2F/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8
 #EXTINF:-1group-title="SPORTS",OnFootball
 https://live2onsport.vtvcab.vn/dash/BONGDA_HD/m30_index.m3u8
 #EXTINF:-1group-title="SPORTS",Viaplayextra
