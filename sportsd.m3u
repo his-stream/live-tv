@@ -5,6 +5,9 @@
 https://streammain.mmanmartvchannels.com:999/website-channelk-stream/website-channelk-stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNy8yMDIzIDY6MTA6NDQgUE0maGFzaF92YWx1ZT05NUN1bWlOTktmUm56eHYyWTJPbmVBPT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTQ3
 #EXTINF:-1,BZ MRTVHD
 https://5a13fe32ef748.streamlock.net/mmplay/mrtv/playlist.m3u8
+#EXTINF:-1,BZ BUDDHA
+#EXTVLCOPT:http-referrer=https://www.myanmartvchannels.com/&user-agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64;%20rv:105.0)%20Gecko/20100101%20Firefox/105.0
+https://streammain.myanmartvchannels.com:999/website-channelk-stream/website-channelk-stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNy8yMDIzIDY6MTA6NDQgUE0maGFzaF92YWx1ZT05NUN1bWlOTktmUm56eHYyWTJPbmVBPT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTQ3
 #EXTINF:-1,BZ CHANNEL7
 https://5a13fe32ef748.streamlock.net/mmplay/channel7/playlist.m3u8
 #EXTINF:-1,BZ MRTV4
