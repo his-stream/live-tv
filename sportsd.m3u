@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1,Live SD
+#EXTINF:-1,BZ Live SD
 https://pull.niues.live/live/stream-9912053_lsd.m3u8?auth_key=1694459862-0-0-14579e683afe19890c4c8a4c55b71ced
-#EXTINF:-1,Live
+#EXTINF:-1,BZ Live
 https://pull.niues.live/live/stream-9912053_lhd.m3u8?auth_key=1694451642-0-0-744961c864171bd2e4f7b041e1dddfa3
-#EXTINF:-1,premier1
+#EXTINF:-1,BZ premier1
 https://cdn3.skygo.mn/live/disk1/SPSPrime/HLS-FTA/index.m3u8
-#EXTINF:-1,premier2
+#EXTINF:-1,BZ premier2
 https://cdn3.skygo.mn/live/disk1/SPSPlay/HLS-FTA/index.m3u8
-#EXTINF:-1,premier3
+#EXTINF:-1,BZ premier3
 https://cdn3.skygo.mn/live/disk1/SPSWORLD/HLS-FTA/index.m3u8
-#EXTINF:-1,premier4
+#EXTINF:-1,BZ premier4
 https://cdn3.skygo.mn/live/disk1/SPSFight/HLS-FTA/index.m3u8
 #EXTINF:-1,onsports+
 https://live2onsport.vtvcab.vn/dash/HAY_TV/m30_index.m3u8
@@ -19,7 +19,7 @@ https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.stream.smil/ch
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 #EXTINF:-1,vjsport
 https://bl.uma.media/live/485548/HLS/4614144_3,2883584/2/1/playlist.m3u8
-#EXTINF:-1,UnifiSport
+#EXTINF:-1, BZ UnifiSport
 http://unifi-live05.secureswiftcontent.com:80/UnifiHD/live11.mpd
 #EXTINF:-1,ViaplayExtra
 https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
@@ -37,7 +37,7 @@ http://bl.uma.media:80/live/126864/HLS/6866944_4/2/1/playlist.m3u8
 http://bl.uma.media:80/live/126865/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1,fubol4
 http://bl.uma.media:80/live/126866/HLS/6866944_4/2/1/playlist.m3u8
-#EXTINF:-1,sport18
+#EXTINF:-1,BZ Sport18
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1,Fightsport
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
