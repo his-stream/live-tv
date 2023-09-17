@@ -109,22 +109,6 @@ http://183.89.246.119:8881/play/a07w/index.m3u8
 https://live2onsport.vtvcab.vn/dash/BONGDA_HD/m30_index.m3u8
 #EXTINF:-1group-title="SPORTS",Viaplayextra
 https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
-#EXTINF:-1group-title="SPORTS",Sport 18 HD
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1group-title="SPORTS",TEN 1 (SONY LIV)
-https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
-#EXTINF:-1group-title="SPORTS",TEN 2 (SONY LIV)
-https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
-#EXTINF:-1group-title="SPORTS",TEN 3 (SONY LIV)
-https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
-#EXTINF:-1group-title="SPORTS",TEN 4 (SONY LIV)
-https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
-#EXTINF:-1group-title="SPORTS",TEN 5 (SONY LIV)
-https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
-
-#EXTINF:-1,
-
-
 #EXTINF:-1 tvg-logo="https://www.mflixth.com//mfmposter/985855.jpg" group-title="MMSUBMOVIES",Fall
 https://mcdrive.org/StreamVD/Registered/V79OSIE0d6ftr8Fq4Nyx/Streams/Fall(2022)(1080p)/Wp2cM5jiZvB7DTNCEAw4.m3u8
 #EXTINF:-1 tvg-logo="https://mflixth.com/mfmposter/615916.jpg" group-title="MMSUBMOVIES",HansanRising
