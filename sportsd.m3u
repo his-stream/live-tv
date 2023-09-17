@@ -37,6 +37,8 @@ https://cdn3.skygo.mn/live/disk1/SPSPlay/HLS-FTA/index.m3u8
 https://cdn3.skygo.mn/live/disk1/SPSWORLD/HLS-FTA/index.m3u8
 #EXTINF:-1,BZ premier4
 https://cdn3.skygo.mn/live/disk1/SPSFight/HLS-FTA/index.m3u8
+#EXTINF:-1,BZ premier5
+https://cdn3.skygo.mn/live/disk1/SPSPlus/HLS-FTA/index.m3u8
 #EXTINF:-1,onsports+
 https://live2onsport.vtvcab.vn/dash/HAY_TV/m30_index.m3u8
 #EXTINF:-1,dubaisport
