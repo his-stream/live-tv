@@ -1,10 +1,14 @@
 #EXTM3U
 #EXTINF:-1,BZ Mon Sport 2
-http://109.123.238.74:80/play/mVXonFe40Ty9m9 -M57xqVsfzke8-12otRTgaoxzdamg/ts #EXTINF:-1,BZ Mon Sport 3 http://109.123.238.74:80/play/mVXonFe40Ty9m9 
-#EXTINF:-1,BZ Mon Sport 4 http://109.123.238.74:80/play/mVXonFe40Ty9m9-M57xqVjWEPEnBedINWMfbvNUSfEk/ts-M57xqVuR5a6dL4MEQFDLJOBARWCk/ts #EXTINF:-1,BZ Mon Sport 1
-http://109.123.238.74:80/play/mVXonFe40Ty9m9 -M57xqVmvmaC_xPTaqFVbs0nWi0ql/ts
-http://109.123.238.74:80/play/mVXonFe40Ty9m9 - M57xqVkLdNuvaBU9WwipgpdrY1Y0/ts
-http://109.123.238.74:80/play/mVXonFe40Ty9m9 -M57xqVpkDPGYpGcyiiwtTS_63Rds/ts
+http://109.123.238.74:80/play/mVXonFe40Ty9m9-M57xqVsfzke8-12otRTgaoxzdamg/ts
+#EXTINF:-1,BZ Mon Sport 3
+http://109.123.238.74:80/play/mVXonFe40Ty9m9-M57xqVuR5a6dL4MEQFDLJOBARWCk/ts
+#EXTINF:-1,BZ Mon Sport 4
+http://109.123.238.74:80/play/mVXonFe40Ty9m9-M57xqVjWEPEnBedINWMfbvNUSfEk/ts
+#EXTINF:-1,BZ Mon Sport 1
+http://109.123.238.74:80/play/mVXonFe40Ty9m9-M57xqVmvmaC_xPTaqFVbs0nWi0ql/ts
+http://109.123.238.74:80/play/mVXonFe40Ty9m9-M57xqVkLdNuvaBU9WwipgpdrY1Y0/ts
+http://109.123.238.74:80/play/mVXonFe40Ty9m9-M57xqVpkDPGYpGcyiiwtTS_63Rds/ts
 #EXTINF:-1,BZ BUDDHA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64;%20rv:105.0)%20Gecko/20100101%20Firefox/105.0
 #EXTVLCOPT:http-referrer=https://www.myanmartvchannels.com/
