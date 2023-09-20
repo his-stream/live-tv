@@ -71,6 +71,30 @@ https://streaming.livescorethai.net/iptv/epl-4.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 https://streaming.livescorethai.net/iptv/epl-5.stream/playlist.m3u8
+#EXTINF:-1group-title="SPORTS",BZ C+sport2
+https://cdn-global.lolokoko.tv/canalplussport2.stream/chunks.m3u8
+#EXTINF:-1group-title="SPORTS",BZ C+sport3
+https://cdn-global.lolokoko.tv/canalplussport3.stream/chunks.m3u8
+#EXTINF:-1group-title="SPORTS",BZ C+sport4
+https://cdn-global.lolokoko.tv/canalplussport4.stream/chunks.m3u8
+#EXTINF:-1group-title="SPORTS",BZ onvolleyball
+https://live2onsport.vtvcab.vn/dash/ONVOLLEYBALL/m30_index.m3u8
+#EXTINF:-1group-title="SPORTS",BZ dubaisport2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+#EXTINF:-1group-title="SPORTS",BZ dubaisport3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+#EXTINF:-1group-title="SPORTS",BZ ESPN Vivo
+http://168.227.22.18:1935/live/mobile-032/playlist.m3u8
+#EXTINF:-1group-title="SPORTS",BZ ESPN Vivo2
+http://168.227.22.18:1935/live/mobile-033/playlist.m3u8
+#EXTINF:-1group-title="SPORTS",BZ Live1
+https://1123139281.cdn.khmer-hd.com/myHD/chunks.m3u8
+#EXTINF:-1group-title="SPORTS",BZ Live2
+https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8
+#EXTINF:-1group-title="SPORTS",BZ TVPsport
+https://cdn-global.lolokoko.tv/tvpsport.stream/chunks.m3u8
+#EXTINF:-1group-title="SPORTS",BZ BPlanet
+https://answermedia-beautiful-planet-1-eu.xiaomi.wurl.tv/2000.m3u8
 #EXTINF:-1,onsports+
 https://live2onsport.vtvcab.vn/dash/HAY_TV/m30_index.m3u8
 #EXTINF:-1,BZ Dubaisport
