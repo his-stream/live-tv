@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1,BZ SPORT SD1
 https://pull.juqihuo.com/live/stream-643519_lhd.flv?auth_key=1694973071-0-0-8ca6f6cb532022ccacca8da65d9035d8
-#EXTINF:-1,BZ SPORT SD2
-https://pull.niues.live/live/stream-9912053_lsd.m3u8?auth_key=1694459862-0-0-14579e683afe19890c4c8a4c55b71ced
+#EXTINF:-1,BZ SPORT Sd2
+https://funn-g1052.huibo.tv/DGI/H2115/chunks.m3u8?p=49&cf=1695475503&d=&ip=223.24.153.79&e=1695476103&h=ecc15abb599ba2de956417d7c67e49f7
 #EXTINF:-1,BZ SPORT HD
 https://pull.niues.live/live/stream-9912004_lsd.m3u8?auth_key=1695301360-0-0-6f06ac6fd536ad2af032609b6121c093
 #EXTINF:-1,BZ Live 1
