@@ -39,7 +39,7 @@ http://bananatv.org:25461/live/bananatv1/lovebanana/27.m3u8
 http://bananatv.org:25461/live/bananatv1/lovebanana/31.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g0ydM3Nb/IMG-20231018-104525.png" group-title="MYANMAR",CHARTATE
 http://bananatv.org:25461/live/bananatv1/lovebanana/32.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Kj080tc8/IMG-20231018-104542.png" group-title="MYANMAR",AnimalPlanest
+#EXTINF:-1 tvg-logo=" " group-title="MYANMAR",AnimalPlanest
 http://bananatv.org:25461/live/bananatv1/lovebanana/54.m3u8
 
 #EXTINF:-1group-title="BZ LIVE",Mahar
@@ -399,13 +399,6 @@ https://streaming.livescorethai.net/iptv/epl-4.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 https://streaming.livescorethai.net/iptv/epl-5.stream/playlist.m3u8
-
-#EXTINF:-1, BZ BEIN 1
-#EXTVLCOPT:http-referrer=https://ufabetcompany.com/
-https://live.vip-streaming.com:30443/cloudstreaming/bein-sport-1-th/playlist.m3u8?wmsAuthSign
-#EXTINF:-1, BZ BEIN 3
-#EXTVLCOPT:http-referrer=https://ufabetcompany.com/
-https://live.vip-streaming.com:30443/cloudstreaming/bein-sport-3-th/playlist.m3u8?wmsAuthSign
 
 #EXTINF:-1,BZ Dubaisport
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
