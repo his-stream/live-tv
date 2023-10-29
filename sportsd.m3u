@@ -29,15 +29,15 @@ http://183.89.246.119:8881/play/a07t/index.m3u8
 http://183.89.246.119:8881/play/a07w/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RhLH43Mk/IMG-20231018-104456.png" group-title="MYANMAR",MYN MUSIC
 https://l1-xl1.myanmarnet.com/relay/music/ch1/stream_hi/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2qHRGR2/IMG-20231018-110815.png" group-title="MYANMAR",DASIA
+#EXTINF:-1 tvg-logo=" " group-title="MYANMAR",DASIA
 http://bananatv.org:25461/live/bananatv1/lovebanana/56.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5WnHjc0/IMG-20231018-110835.png" group-title="MYANMAR",AFN
+#EXTINF:-1 tvg-logo=" " group-title="MYANMAR",AFN
 http://bananatv.org:25461/live/bananatv1/lovebanana/61.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Kj080tc8/IMG-20231018-104542.png" group-title="MYANMAR",SUSAN
+#EXTINF:-1 tvg-logo=" " group-title="MYANMAR",SUSAN
 http://bananatv.org:25461/live/bananatv1/lovebanana/27.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CgNBZdb/IMG-20231018-104603.png" group-title="MYANMAR",PUTUTU
+#EXTINF:-1 tvg-logo=" " group-title="MYANMAR",PUTUTU
 http://bananatv.org:25461/live/bananatv1/lovebanana/31.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0ydM3Nb/IMG-20231018-104525.png" group-title="MYANMAR",CHARTATE
+#EXTINF:-1 tvg-logo=" " group-title="MYANMAR",CHARTATE
 http://bananatv.org:25461/live/bananatv1/lovebanana/32.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="MYANMAR",AnimalPlanest
 http://bananatv.org:25461/live/bananatv1/lovebanana/54.m3u8
