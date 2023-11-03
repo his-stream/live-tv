@@ -39,7 +39,7 @@ http://183.89.246.119:8881/play/a07m/index.m3u8
 http://183.89.246.119:8881/play/a07q/index.m3u8
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://i.imgur.com/5eK8Bc4.png", MRTV Parliament
 http://183.89.246.119:8881/play/a07n/index.m3u8
-#EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.helmsmansupply.com/wp-content/uploads/2013/05/MSC.jpg", MSC Movie
+#EXTINF:-1 group-title="Myanmar" tvg-logo="https://drive.google.com/file/d/132PXBXjMbuUcBlawLZX7HNIUFbGFbwun/preview", MSC Movie
 https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream_standard/index.m3u8
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://brittcoconsulting.com/wp-content/uploads/2019/01/Myanmar-logo1.jpg", Myanamr Music
 https://l1-xl1.myanmarnet.com/relay/music/ch1/stream_hi/index.m3u8
