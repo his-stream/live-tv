@@ -47,11 +47,11 @@ https://l1-xl1.myanmarnet.com/relay/music/ch1/stream_hi/index.m3u8
 http://203.81.84.130/hls/mwd_serie/index.m3u8
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://i.postimg.cc/PJxsMk9t/Picsart-22-11-20-15-39-09-245.png", iWAR
 http://203.81.84.130/hls/mwd_shopping/index.m3u8
-#EXTINF:-1 group-title="Myanmar" tvg-logo="https://i.postimg.cc/pr0z5Db0/Picsart-22-11-20-21-08-36-024.png", GOLDEN
+#EXTINF:-1 group-title="Myanmar" tvg-logo="https://i.postimg.cc/pr0z5Db0/Picsart-22-11-20-21-08-36-024.png", GOLDENLAND
 http://203.81.84.130/hls/mwd_document/index.m3u8
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://i.postimg.cc/YCjKFkg8/Picsart-22-11-20-20-53-27-756.png", MWD HD
 http://203.81.84.130/hls/mwd/index.m3u8
-#EXTINF:-1 group-title="Myanmar" tvg-logo="https://i.postimg.cc/9QX8Rp3h/Picsart-22-11-20-15-27-28-154.png", MWDVARIYTY
+#EXTINF:-1 group-title="Myanmar" tvg-logo="https://i.postimg.cc/9QX8Rp3h/Picsart-22-11-20-15-27-28-154.png", MWDVARIETY
 http://203.81.84.130/hls/mwd_variety/index.m3u8
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://i.postimg.cc/gksLJyq8/Picsart-22-11-20-15-45-25-489.png", CLIGHT
 http://203.81.84.130/hls/mwd_family/index.m3u8
