@@ -30,7 +30,7 @@ https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://i.imgur.com/f4PWvrW.jpg",MRTV Farmfrs
 http://183.89.246.119:8881/play/a07p/index.m3u8
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mrtv-80x80-d7c.jpg", MRTV
-http://183.89.246.119:8881/play/a07l/index.m3u8
+https://5a13fe32ef748.streamlock.net/mmplay/mrtv/playlist.m3u8
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://i.imgur.com/5aLFslk.jpg", MRTV NRC
 http://183.89.246.119:8881/play/a07o/index.m3u8
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://i.imgur.com/5eK8Bc4.png", MRTV News
