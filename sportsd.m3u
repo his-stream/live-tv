@@ -43,16 +43,29 @@ http://183.89.246.119:8881/play/a07n/index.m3u8
 https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream_standard/index.m3u8
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://brittcoconsulting.com/wp-content/uploads/2019/01/Myanmar-logo1.jpg", Myanamr Music
 https://l1-xl1.myanmarnet.com/relay/music/ch1/stream_hi/index.m3u8
-
+#EXTINF:-1 group-title="Myanmar" tvg-logo="https://i.postimg.cc/VvR9mxkb/Picsart-22-11-20-15-21-13-205.png", TVM
+http://203.81.84.130/hls/mwd_serie/index.m3u8
+#EXTINF:-1 group-title="Myanmar" tvg-logo="https://i.postimg.cc/PJxsMk9t/Picsart-22-11-20-15-39-09-245.png", iWAR
+http://203.81.84.130/hls/mwd_shopping/index.m3u8
+#EXTINF:-1 group-title="Myanmar" tvg-logo="https://i.postimg.cc/pr0z5Db0/Picsart-22-11-20-21-08-36-024.png", GOLDEN
+http://203.81.84.130/hls/mwd_document/index.m3u8
+#EXTINF:-1 group-title="Myanmar" tvg-logo="https://i.postimg.cc/YCjKFkg8/Picsart-22-11-20-20-53-27-756.png", MWD HD
+http://203.81.84.130/hls/mwd/index.m3u8
+#EXTINF:-1 group-title="Myanmar" tvg-logo="https://i.postimg.cc/9QX8Rp3h/Picsart-22-11-20-15-27-28-154.png", MWDVARIYTY
+http://203.81.84.130/hls/mwd_variety/index.m3u8
+#EXTINF:-1 group-title="Myanmar" tvg-logo="https://i.postimg.cc/gksLJyq8/Picsart-22-11-20-15-45-25-489.png", CLIGHT
+http://203.81.84.130/hls/mwd_family/index.m3u8
+#EXTINF:-1 group-title="Myanmar" tvg-logo="https://i.postimg.cc/dQWqXWq7/Picsart-22-11-20-20-51-42-479.png", MWD HD SCHOOL
+http://203.81.84.130/hls/mwd_movie/index.m3u8
+#EXTINF:-1 group-title="Myanmar" tvg-logo="https://i.postimg.cc/rFC73sGf/Picsart-22-10-20-21-39-56-999.jpg", MVTV MYANMAR
+https://edge6a.v2h-cdn.com/mvm/mvm.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-sports-1-th.png", TrueSports1
 https://ctrl.laotv.la/live/TrueSport6/index.m3u8
 #EXTINF:-1 group-title="Football" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-sports-2-th.png", TrueSports2
-
 #EXTINF:-1 group-title="Football" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-sports-3-th.png", TrueSports3
 https://ctrl.laotv.la/live/TrueSport3/index.m3u8
 #EXTINF:-1 group-title="Football" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-sports-5-th.png", TrueSports5
-
 #EXTINF:-1 group-title="Football" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-sports-7-th.png", TrueSports7
 https://edge1.laotv.la/live/THD7/index.m3u8
 #EXTINF:-1 group-title="Football" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png", Bein Sport1
