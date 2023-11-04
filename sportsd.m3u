@@ -1,6 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://assets.skynet.com.mm/skynet-web-server/cl7ec19nx001miljs76esaehu.png", Skynetsports 6
-https://vsd71.mycdn.me/hls/5644453939794.m3u8/sig/Oc_ffppwqsw/expires/1699186278681/srcIp/206.189.145.118/urls/45.136.22.40/clientType/0/srcAg/CHROME_ANDROID/mid/7270835035730/5644453939794_medium/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFhX1jhO5KxjPPDH4hRFPXaZ-I0Q24qKBXWw&usqp=CAU", group-title="LIVE NOW", BZ LIVE EPL 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cbb2857966a3a1c27c3305f68e2e92a4:881eca5eda60de64e4ea1514583869f2
+https://drm-epl-vidio-com-epl-4.akamaized.net/out/v1/90396b8cf44f4d20b28f1be94b41b241/index.mpd
 
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mrtv42-80x80-83b.jpg", MRTV4
 http://183.89.246.119:8881/play/a07u/index.m3u8
