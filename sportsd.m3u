@@ -1,44 +1,44 @@
 #EXTM3U
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://i.postimg.cc/T1MdCh7v/IMG-20231105-100413-copy-300x200.jpg",Movies 1
+#EXTINF:-1 group-title="TEST" tvg-logo="https://i.postimg.cc/T1MdCh7v/IMG-20231105-100413-copy-300x200.jpg",Movies 1
 http://bananatv.org:25461/play/tlrnZ9jbSRwg8jG_j4r_rhslgipX063oMnBSDhlwDhI/ts
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://i.postimg.cc/y85wFtpw/IMG-20231105-100302-copy-300x200.jpg",Movies 2
+#EXTINF:-1 group-title="TEST" tvg-logo="https://i.postimg.cc/y85wFtpw/IMG-20231105-100302-copy-300x200.jpg",Movies 2
 http://bananatv.org:25461/play/tlrnZ9jbSRwg8jG_j4r_roykyNIEqReaCe6bHnNVP0U/ts
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://i.postimg.cc/4NHvY0tK/IMG-20231105-100230-copy-300x200.jpg",Movies 3
+#EXTINF:-1 group-title="TEST" tvg-logo="https://i.postimg.cc/4NHvY0tK/IMG-20231105-100230-copy-300x200.jpg",Movies 3
 http://bananatv.org:25461/play/tlrnZ9jbSRwg8jG_j4r_rne2CTcAMIzO8pOgHvK-bLY/ts
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://i.postimg.cc/Jny5C7Nh/23454617-ico-copy-300x200.png",Canal+ action
+#EXTINF:-1 group-title="TEST" tvg-logo="https://i.postimg.cc/Jny5C7Nh/23454617-ico-copy-300x200.png",Canal+ action
 http://bananatv.org:25461/play/tlrnZ9jbSRwg8jG_j4r_rtn7-AHPtduKVd-kEf0OwE0/ts
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://i.postimg.cc/d35sRFf8/23454618-ico-copy-300x200.png",Canal+ Zat Lenn
+#EXTINF:-1 group-title="TEST" tvg-logo="https://i.postimg.cc/d35sRFf8/23454618-ico-copy-300x200.png",Canal+ Zat Lenn
 http://bananatv.org:25461/play/tlrnZ9jbSRwg8jG_j4r_rq4DnAiEXVACbvmt9VrHqC8/ts
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://i.postimg.cc/YqFgrWKY/IMG-20231105-100112-copy-300x200.jpg",Series 1
+#EXTINF:-1 group-title="TEST" tvg-logo="https://i.postimg.cc/YqFgrWKY/IMG-20231105-100112-copy-300x200.jpg",Series 1
 http://bananatv.org:25461/play/tlrnZ9jbSRwg8jG_j4r_rhoRqUrivYJUuvh5P1KDVXE/ts
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://i.postimg.cc/26MRC5g9/23454616-ico-copy-300x200.png",Canal+ Mae Madi
+#EXTINF:-1 group-title="TEST" tvg-logo="https://i.postimg.cc/26MRC5g9/23454616-ico-copy-300x200.png",Canal+ Mae Madi
 http://bananatv.org:25461/play/tlrnZ9jbSRwg8jG_j4r_roP3ka0YrIgTpz_XsComI-s/ts
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://i.postimg.cc/v8VCWbJM/23454620-ico-copy-300x200.png",Canal+ Pu Tu Tue
+#EXTINF:-1 group-title="TEST" tvg-logo="https://i.postimg.cc/v8VCWbJM/23454620-ico-copy-300x200.png",Canal+ Pu Tu Tue
 http://bananatv.org:25461/play/tlrnZ9jbSRwg8jG_j4r_rs5C8s1oZ8LMrl0FdY9q0c0/ts
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://i.postimg.cc/FF3nYGSH/23454619-ico-copy-300x200.png",Canal+ Cha Tate
+#EXTINF:-1 group-title="TEST" tvg-logo="https://i.postimg.cc/FF3nYGSH/23454619-ico-copy-300x200.png",Canal+ Cha Tate
 http://bananatv.org:25461/play/tlrnZ9jbSRwg8jG_j4r_rptTaj7helPWkVn1bYBrSA8/ts
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://i.postimg.cc/g0GG7nPv/IMG-20231105-101508-copy-300x200.jpg",EPL 1
+#EXTINF:-1 group-title="TEST" tvg-logo="https://i.postimg.cc/g0GG7nPv/IMG-20231105-101508-copy-300x200.jpg",EPL 1
 http://bananatv.org:25461/play/tlrnZ9jbSRwg8jG_j4r_rl1WQ_gdQDlFOULb-OIjCKE/ts
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://i.postimg.cc/g0GG7nPv/IMG-20231105-101508-copy-300x200.jpg",EPL 2
+#EXTINF:-1 group-title="TEST" tvg-logo="https://i.postimg.cc/g0GG7nPv/IMG-20231105-101508-copy-300x200.jpg",EPL 2
 http://bananatv.org:25461/play/tlrnZ9jbSRwg8jG_j4r_rsMdaTGkMwjTUuuqgjZP-z0/ts
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://i.postimg.cc/g0GG7nPv/IMG-20231105-101508-copy-300x200.jpg",EPL 3
+#EXTINF:-1 group-title="TEST" tvg-logo="https://i.postimg.cc/g0GG7nPv/IMG-20231105-101508-copy-300x200.jpg",EPL 3
 http://bananatv.org:25461/play/tlrnZ9jbSRwg8jG_j4r_rtWk3vs3l4aYdc58etKZ8cQ/ts
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://i.postimg.cc/g0GG7nPv/IMG-20231105-101508-copy-300x200.jpg",EPL 4
+#EXTINF:-1 group-title="TEST" tvg-logo="https://i.postimg.cc/g0GG7nPv/IMG-20231105-101508-copy-300x200.jpg",EPL 4
 http://bananatv.org:25461/play/tlrnZ9jbSRwg8jG_j4r_rugOswtwGQvYeQnukoRx3UI/ts
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://i.postimg.cc/Gmx490Lx/IMG-20231105-101542-copy-300x200.jpg",EPL 5 SD For Slow Network
+#EXTINF:-1 group-title="TEST" tvg-logo="https://i.postimg.cc/Gmx490Lx/IMG-20231105-101542-copy-300x200.jpg",EPL 5 SD For Slow Network
 http://bananatv.org:25461/play/tlrnZ9jbSRwg8jG_j4r_rpLUivKcBewAwTDI_kNwxn0/ts
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://i.postimg.cc/Gmx490Lx/IMG-20231105-101542-copy-300x200.jpg",EPL 5 (Live)
+#EXTINF:-1 group-title="TEST" tvg-logo="https://i.postimg.cc/Gmx490Lx/IMG-20231105-101542-copy-300x200.jpg",EPL 5 (Live)
 http://bananatv.org:25461/play/tlrnZ9jbSRwg8jG_j4r_rrW28vnBG1o0WpA2VxluWUk/ts
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://i.postimg.cc/Gmx490Lx/IMG-20231105-101542-copy-300x200.jpg",EPL 5 (Live HD)
+#EXTINF:-1 group-title="TEST" tvg-logo="https://i.postimg.cc/Gmx490Lx/IMG-20231105-101542-copy-300x200.jpg",EPL 5 (Live HD)
 http://bananatv.org:25461/play/tlrnZ9jbSRwg8jG_j4r_ru1i5NdA_P6GtTQ_kOj3gUo/ts
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://i.postimg.cc/g0GG7nPv/IMG-20231105-101508-copy-300x200.jpg",EPL 6 Highlight
+#EXTINF:-1 group-title="TEST" tvg-logo="https://i.postimg.cc/g0GG7nPv/IMG-20231105-101508-copy-300x200.jpg",EPL 6 Highlight
 http://bananatv.org:25461/play/tlrnZ9jbSRwg8jG_j4r_rrZN9eN9v8zlSSNpdlzozlY/ts
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://i.postimg.cc/g0GG7nPv/IMG-20231105-101508-copy-300x200.jpg",EPL 7
+#EXTINF:-1 group-title="TEST" tvg-logo="https://i.postimg.cc/g0GG7nPv/IMG-20231105-101508-copy-300x200.jpg",EPL 7
 http://bananatv.org:25461/play/tlrnZ9jbSRwg8jG_j4r_rtAabB6eww18Cmpd2e481VY/ts
 
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://i.postimg.cc/FsQFSPnW/23454629-ico-copy-300x200.png",Canal+ Sports 1
+#EXTINF:-1 group-title="TEST" tvg-logo="https://i.postimg.cc/FsQFSPnW/23454629-ico-copy-300x200.png",Canal+ Sports 1
 http://bananatv.org:25461/play/tlrnZ9jbSRwg8jG_j4r_rjPIRp30uyspZ-B7oH1i3Co/ts
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://i.postimg.cc/4dzqR1by/23454630-ico-copy-300x200.png",Canal+ Sports 2
+#EXTINF:-1 group-title="TEST" tvg-logo="https://i.postimg.cc/4dzqR1by/23454630-ico-copy-300x200.png",Canal+ Sports 2
 http://bananatv.org:25461/play/tlrnZ9jbSRwg8jG_j4r_rqzVwx_2ow0qAAvi_R_sX0I/ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFhX1jhO5KxjPPDH4hRFPXaZ-I0Q24qKBXWw&usqp=CAU", group-title="LIVE NOW", BZ LIVE EPL 
