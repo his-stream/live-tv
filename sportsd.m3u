@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="TEST" tvg-logo="https://i.postimg.cc/X7CDkTXm/IMG-20231105-184545.jpg",Live 3
+#EXTINF:-1 group-title="TEST" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjppBAqOLlpUZOueX4Ptcucg96ZgSw5xyQlA&usqp=CAU",Live 3
 https://live.kh.unitysystem.net/live/towntv.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFhX1jhO5KxjPPDH4hRFPXaZ-I0Q24qKBXWw&usqp=CAU", group-title="LIVE NOW", BZ LIVE EPL 
