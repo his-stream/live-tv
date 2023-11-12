@@ -12,6 +12,32 @@ https://live.kh.unitysystem.net/live/towntv.stream/chunklist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=a0605846d1f0dc153537b04d5fef6594:af747fe84c6c850c646364ad0b96c6cf
 https://drm-epl-vidio-com-epl-2.akamaized.net/out/v1/213998e62d2c4e5f9cf9e832d4502b83/index.mpd
 
+#EXTINF:-1 group-title="TEST" tvg-logo="https://i.postimg.cc/g0GG7nPv/IMG-20231105-101508-copy-300x200.jpg",EPL 1
+http://bananatv.org:25461/play/ndboWqziHLi7iwyvMEWnSF9pMTa7OueejJhjhkUd8MM/ts
+#EXTINF:-1 group-title="TEST" tvg-logo="https://i.postimg.cc/g0GG7nPv/IMG-20231105-101508-copy-300x200.jpg",EPL 2
+http://bananatv.org:25461/play/ndboWqziHLi7iwyvMEWnSK_-NMXKwH-ndmyYgPOmCv4/ts
+#EXTINF:-1 group-title="TEST" tvg-logo="https://i.postimg.cc/g0GG7nPv/IMG-20231105-101508-copy-300x200.jpg",EPL 3
+http://bananatv.org:25461/play/ndboWqziHLi7iwyvMEWnSNo4k7SAy8K3P6yqaE0O_VM/ts
+#EXTINF:-1 group-title="TEST" tvg-logo="https://i.postimg.cc/g0GG7nPv/IMG-20231105-101508-copy-300x200.jpg",EPL 4
+http://bananatv.org:25461/play/ndboWqziHLi7iwyvMEWnSMUAj5abReKDrvp6DiedCl4/ts
+#EXTINF:-1 group-title="TEST" tvg-logo="https://i.postimg.cc/Gmx490Lx/IMG-20231105-101542-copy-300x200.jpg",EPL 5 SD For Slow Network
+http://bananatv.org:25461/play/ndboWqziHLi7iwyvMEWnSGM8oOmxvlYUNK64JymJRsk/ts
+#EXTINF:-1 group-title="TEST" tvg-logo="https://i.postimg.cc/Gmx490Lx/IMG-20231105-101542-copy-300x200.jpg",EPL 5 (Live)
+http://bananatv.org:25461/play/ndboWqziHLi7iwyvMEWnSLJh34Ldc9rKtIciP-4KKkE/ts
+#EXTINF:-1 group-title="TEST" tvg-logo="https://i.postimg.cc/Gmx490Lx/IMG-20231105-101542-copy-300x200.jpg",EPL 5 (Live HD)
+http://bananatv.org:25461/play/ndboWqziHLi7iwyvMEWnSLJh34Ldc9rKtIciP-4KKkE/ts
+#EXTINF:-1 group-title="TEST" tvg-logo="https://i.postimg.cc/g0GG7nPv/IMG-20231105-101508-copy-300x200.jpg",EPL 6 Highlight
+http://bananatv.org:25461/play/ndboWqziHLi7iwyvMEWnSL4bbXeDLoG7ZUskJX7kadA/ts
+#EXTINF:-1 group-title="TEST" tvg-logo="https://i.postimg.cc/g0GG7nPv/IMG-20231105-101508-copy-300x200.jpg",EPL 7
+http://bananatv.org:25461/play/ndboWqziHLi7iwyvMEWnSFM1U8-cNJqJuRM0k7Z56yM/ts
+
+#EXTINF:-1 group-title="TEST" tvg-logo="https://i.postimg.cc/FsQFSPnW/23454629-ico-copy-300x200.png",Canal+ Sports 1
+http://bananatv.org:25461/play/ndboWqziHLi7iwyvMEWnSFwZobTE0438wpsuL2IE1eg/ts
+#EXTINF:-1 group-title="TEST" tvg-logo="https://i.postimg.cc/4dzqR1by/23454630-ico-copy-300x200.png",Canal+ Sports 2
+http://bananatv.org:25461/play/ndboWqziHLi7iwyvMEWnSKKpmJxD0uzRITNr9RgMV8Q/ts
+
+
+
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mrtv42-80x80-83b.jpg", MRTV4
 http://183.89.246.119:8881/play/a07u/index.m3u8
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/channel7-80x80-83b.jpg", Channel7
