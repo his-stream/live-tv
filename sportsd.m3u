@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="TEST" tvg-logo=" ",Live
+#EXTINF:-1 group-title="TEST" tvg-logo="https://i.postimg.cc/Kvbj6ZSr/IMG-20231116-135127.jpg",Live
 https://s.id/live2222|Referer=https://trovo.live/&e=.m3u8/&u/&user-agent=Android
 
 #EXTINF:-1 group-title="TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg", Setante Sport 1
