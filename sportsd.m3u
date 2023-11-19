@@ -42,40 +42,58 @@ http://bananatv.org:25461/play/ndboWqziHLi7iwyvMEWnSFwZobTE0438wpsuL2IE1eg/ts
 #EXTINF:-1 group-title="TEST" tvg-logo="https://i.postimg.cc/4dzqR1by/23454630-ico-copy-300x200.png",Canal+ Sports 2
 http://bananatv.org:25461/play/ndboWqziHLi7iwyvMEWnSKKpmJxD0uzRITNr9RgMV8Q/ts
 
-
-
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mrtv42-80x80-83b.jpg", MRTV4
-http://183.89.246.119:8881/play/a07u/index.m3u8
+https://5a13fe32ef748.streamlock.net/mmplay/mrtv-4/playlist.m3u8
+
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/channel7-80x80-83b.jpg", Channel7
-http://183.89.246.119:8881/play/a07v/index.m3u8
+https://5a13fe32ef748.streamlock.net/mmplay/channel7/playlist.m3u8
+
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mahar-80x80-1ee.jpg", Mahar
 https://tv.mahar.live/mahar/website.stream/mahar/website1/chunks.m3u8
+
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mizzima-tv-mm.png", Mizzima Tv
 http://183.89.246.119:8881/play/a0ao/index.m3u8
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mizzima-plus-mm.png", Mizzima Tv+
 http://183.89.246.119:8881/play/a0ap/index.m3u8
+
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://maharesports.com/wp-content/uploads/2022/07/cropped-Mahar-Tab_Logo.png", Mahar ESport
 https://tv.mahar.live/esports/mahar.stream/esports/mahar2/chunks.m3u8
+
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/fortune-80x80-0b5.jpg", FortuneTv
 http://183.89.246.119:8881/play/a082/index.m3u8
+
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/channelk-80x80-d7c.jpg", Channelk
+https://5a13fe32ef748.streamlock.net/mmplay/channel9/playlist.m3u8
+
 https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8
+
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/ytv-80x80-31b.jpg", YTV
 http://183.89.246.119:8881/play/a081/index.m3u8
+
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/5plus-80x80-92d.jpg",5Plus
-http://183.89.246.119:8881/play/a07w/index.m3u8
+https://5a13fe32ef748.streamlock.net/mmplay/5plus/playlist.m3u8
+
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channelicon/mrtvent-80x80-26a.jpg", Channel Me
-http://183.89.246.119:8881/play/a07t/index.m3u8
+https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/playlist.m3u8
+
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/channel9-80x80-7b1.jpg",Channel9
 http://183.89.246.119:8881/play/a07y/index.m3u8
+
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.myanmartvchannels.com/assets/images/channeliconb/mitv.jpg", MITV
-http://183.89.246.119:8881/play/a07r/index.m3u8
+https://5a13fe32ef748.streamlock.net/mmplay/mitv/playlist.m3u8
+
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mntv-120x120-dda.jpg", MNTV
+http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
+
 https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
+
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://i.imgur.com/f4PWvrW.jpg",MRTV Farmfrs
 http://183.89.246.119:8881/play/a07p/index.m3u8
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mrtv-80x80-d7c.jpg", MRTV
 https://5a13fe32ef748.streamlock.net/mmplay/mrtv/playlist.m3u8
+
+https://5a13fe32ef748.streamlock.net/mmplay/mrtv/chunklist_w1773051747.m3u8
+
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://i.imgur.com/5aLFslk.jpg", MRTV NRC
 http://183.89.246.119:8881/play/a07o/index.m3u8
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://i.imgur.com/5eK8Bc4.png", MRTV News
@@ -83,7 +101,9 @@ http://183.89.246.119:8881/play/a07m/index.m3u8
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://tvtolive.com/wp-content/uploads/MRTV-Sport-tvtolive.com_.jpg", MRTV Sport
 http://183.89.246.119:8881/play/a07q/index.m3u8
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://i.imgur.com/5eK8Bc4.png", MRTV Parliament
-http://183.89.246.119:8881/play/a07n/index.m3u8
+https://5a13fe32ef748.streamlock.net/mmplay/hluttaw/playlist.m3u8
+
+
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://i.postimg.cc/s2fDBbmJ/Picsart-22-10-15-20-00-02-106.jpg", MSC Movie
 https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream_standard/index.m3u8
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://brittcoconsulting.com/wp-content/uploads/2019/01/Myanmar-logo1.jpg", Myanamr Music
