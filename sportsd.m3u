@@ -284,8 +284,7 @@ https://live.cgtn.com/1000/prog_index.m3u8
 https://b-nhkwlive-xjp.nhkworld.jp/hls/live/2003458-b/nhkwlive-xjp-en/index_1M.m3u8
 #EXTINF:-1 tvg-id="" group-title="World New" tvg-logo="https://cdn.hqth.me/logo/thumbs/226.png", TRT World
 https://tv-trtworld.live.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd1.webp" group-title="SPORTS",EPL
-http://familyiptv.xyz:25461/live/familyhomeiptv/familyhomeiptv/99.m3u8
+
 #EXTINF:-1 tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd1.webp" group-title="SPORTS",Truepre1
 https://edge1.laotv.la/live/TSport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd1.webp" group-title="SPORTS",True pre2
