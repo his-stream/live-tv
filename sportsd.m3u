@@ -3,8 +3,6 @@
 #EXTINF:-1,MINGALARPER
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 
-#EXTM3U
-
 #EXTINF:-1 tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd1.webp" group-title="SP⚽️RTS",Truepre1
 https://ctrl.laotv.la/live/TSport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd1.webp" group-title="SP⚽️RTS",True pre2
