@@ -109,35 +109,22 @@ https://sport.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8|referer=h
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://sport.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8|referer=https://oneplayer.online/
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HLdjWv7N/IMG-20231018-103816.png" group-title="MYANMAR",MRTV4
-http://183.89.246.119:8881/play/a07u/index.m3u8
-#https://5a13fe32ef748.streamlock.net:80/mmplay/mrtv-4/chunklist_w795084993.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3rsG5B9s/IMG-20231018-103844.png" group-title="MYANMAR",CH7
-http://183.89.246.119:8881/play/a07v/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VNZS7BdH/IMG-20231018-103932.png" group-title="MYANMAR",MAHAR
 https://tv.mahar.live/mahar/website.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GpHqMr4y/IMG-20231018-134533.png" group-title="MYANMAR",MCS
 https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream_standard/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8k6FHvDt/IMG-20231018-104223.png" group-title="MYANMAR",MNTV
 https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_hi/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvjZvWnM/IMG-20231018-104249.png" group-title="MYANMAR",CH9
-http://183.89.246.119:8881/play/a07y/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0298wKN6/IMG-20231018-103909.png" group-title="MYANMAR",CHANNELK
 https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi84LzIwMjIgMzozMTo0OSBBTSZoYXNoX3ZhbHVlPUJBSG54TklSSVJ0T3UyRnN5NGdFMWc9PSZ2YWxpZG1pbnV0ZXM9MjUmc3RybV9sZW49MTg=
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HWqZLFT3/IMG-20231018-104337.png" group-title="MYANMAR",YTV
-http://183.89.246.119:8881/play/a081/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pLxsf8hF/IMG-20231018-104422.png" group-title="MYANMAR",FORTUNE
-http://183.89.246.119:8881/play/a082/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JhymL9rm/IMG-20231018-111441.png" group-title="MYANMAR",GOLDENLAND
 http://203.81.84.130/hls/mwd_document/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1tZdjT4v/IMG-20231018-111507.png" group-title="MYANMAR",TVN
 http://203.81.84.130/hls/mwd_serie/index.m3u
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7Y1VZ6sY/IMG-20231018-104401.png" group-title="MYANMAR",Ch Me
-http://183.89.246.119:8881/play/a07t/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvs58TRz/IMG-20231018-104308.png" group-title="MYANMAR",5PLUS
-http://183.89.246.119:8881/play/a07w/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tvtolive.com/wp-content/uploads/MRTV-Sport-tvtolive.com_.jpg" group-title="MYANMAR", MRTV Sport
-http://183.89.246.119:8881/play/a07q/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RhLH43Mk/IMG-20231018-104456.png" group-title="MYANMAR",MYN MUSIC
 https://l1-xl1.myanmarnet.com/relay/music/ch1/stream_hi/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://maharesports.com/wp-content/uploads/2022/07/cropped-Mahar-Tab_Logo.png" group-title="MYANMAR", Mahar ESport
