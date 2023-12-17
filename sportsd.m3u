@@ -353,12 +353,7 @@ http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
 https://admdn1.cdn.mangomolo.com:443/adsports1/smil:adsports1.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/65G89mDN/IMG-20231018-132839.png" group-title="SPORTS",Adsport2
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/WbMJGySw/IMG-20231018-132957.png" group-title="SPORTS",DUBAISPORT
-https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/WbMJGySw/IMG-20231018-132957.png" group-title="SPORTS",DUBAISPORT2
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/WbMJGySw/IMG-20231018-132957.png" group-title="SPORTS",DUBAISPORT3
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VvcMF12C/IMG-20231018-130006.png" group-title="SPORTS",ESPN
 http://168.227.22.18:1935/live/mobile-032/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VvcMF12C/IMG-20231018-130006.png" group-title="SPORTS",ESPNVIVO2
@@ -385,16 +380,6 @@ https://ctrl.laotv.la/live/Bsport1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/ydbYX64b/IMG-20231018-131209.png" group-title="SPORTS", BEINSPORT2 THAI
 https://ctrl.laotv.la/live/Bsport2/index.m3u8
 
-#EXTINF:-1group-title="SPORTS",adsport1
-https://admdn1.cdn.mangomolo.com:443/adsports1/smil:adsports1.stream.smil/chunklist.m3u8
-#EXTINF:-1group-title="SPORTS",adsport2
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist.m3u8
-#EXTINF:-1group-title="SPORTS",dubaisport
-https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
-#EXTINF:-1group-title="SPORTS",dubaisport2
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
-#EXTINF:-1group-title="SPORTS",dubaisport3
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
 
 #EXTINF:-1,fubol1
 http://bl.uma.media:80/live/126863/HLS/6866944_4/2/1/playlist.m3u8
