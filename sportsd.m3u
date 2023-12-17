@@ -13,6 +13,31 @@ http://ucdn.beetv.kz/btv/live/hls/000004499.m3u8
 #EXTINF:-1 group-title="TEST" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjppBAqOLlpUZOueX4Ptcucg96ZgSw5xyQlA&usqp=CAU",Live
 https://live.kh.unitysystem.net/live/towntv.stream/chunklist.m3u8
 
+#EXTINF:-1 group-title="BZ SPORT" tvg-logo="https://i.postimg.cc/WbMJGySw/IMG-20231018-132957.png", DUBAI SPORT 1
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="BZ SPORT" tvg-logo="https://i.postimg.cc/WbMJGySw/IMG-20231018-132957.png", DUBAI SPORT 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="BZ SPORT" tvg-logo="https://i.postimg.cc/WbMJGySw/IMG-20231018-132957.png", DUBAI SPORT 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+
+
+#EXTINF:-1 group-title="BZ SPORT" tvg-logo="https://i.imgur.com/WeTRNRu.jpg", ARENA SPORT 1
+http://93.155.227.38:555/m3u8/arenasport1.m3u8
+
+#EXTINF:-1 group-title="BZ SPORT" tvg-logo="https://i.imgur.com/O3G4NU5.jpg", ARENA SPORT 2
+http://93.155.227.38:555/m3u8/arenasport2.m3u8
+
+#EXTINF:-1 group-title="BZ SPORT" tvg-logo="https://i.imgur.com/UUJqMIA.jpg", ARENA SPORT 3
+http://93.155.227.38:555/m3u8/arenasport3.m3u8
+
+#EXTINF:-1 group-title="BZ SPORT" tvg-logo="https://i.imgur.com/mnq7IGn.jpg", ARENA SPORT 4
+http://93.155.227.38:555/m3u8/arenasport4.m3u8
+
+#EXTINF:-1 group-title="BZ SPORT" tvg-logo="https://i.imgur.com/7IC5jwb.jpg", ARENA SPORT 5 
+http://93.155.227.38:555/m3u8/arenasport5.m3u8
+
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://i.imgur.com/C9k2xRY.jpg", Maharbawdi 
 https://ppradio.b-cdn.net/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8
 
