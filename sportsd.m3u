@@ -5,13 +5,13 @@
 #KODIPROP:inputstream.adaptive.license_key=a0605846d1f0dc153537b04d5fef6594:af747fe84c6c850c646364ad0b96c6cf
 https://drm-epl-vidio-com-epl-2.akamaized.net/out/v1/213998e62d2c4e5f9cf9e832d4502b83/index.mpd
 
-#EXTINF:-1 group-title="TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg", Setante Sport 1
-http://ucdn.beetv.kz/btv/live/hls/000004498.m3u8
-#EXTINF:-1 group-title="TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg", Setante Sport 2
-http://ucdn.beetv.kz/btv/live/hls/000004499.m3u8
-
 #EXTINF:-1 group-title="TEST" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjppBAqOLlpUZOueX4Ptcucg96ZgSw5xyQlA&usqp=CAU",Live
 https://live.kh.unitysystem.net/live/towntv.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="BZ SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg", Setante Sport 1
+http://ucdn.beetv.kz/btv/live/hls/000004498.m3u8
+#EXTINF:-1 group-title="BZ SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg", Setante Sport 2
+http://ucdn.beetv.kz/btv/live/hls/000004499.m3u8
 
 #EXTINF:-1 group-title="BZ SPORT" tvg-logo="https://i.postimg.cc/WbMJGySw/IMG-20231018-132957.png", DUBAI SPORT 1
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
