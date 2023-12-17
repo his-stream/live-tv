@@ -190,24 +190,18 @@ https://ctrl.laotv.la/live/HBO/index.m3u8
 #EXTINF:-1 group-title="Movie" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png", Cinemax HD
 https://ctrl.laotv.la/live/Cinemax/index.m3u8
 #EXTINF:-1 group-title="Movie" tvg-logo="https://www.lyngsat.com/logo/tv/aa/axn_east_asia.png", AXN
-http://200.24.206.132:8000/play/a09c/index.m3u8
-#EXTINF:-1 group-title="Movie" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fxm-us.png", FX
-http://200.24.206.132:8000/play/a09e/index.m3u8
-#EXTINF:-1 group-title="Movie" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo2_pl.png", HBO2
-http://200.24.206.132:8000/play/a07g/index.m3u8
-#EXTINF:-1 group-title="Movie" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_family_asia.png", HBO Family
-http://200.24.206.132:8000/play/a0ck/index.m3u8
-#EXTINF:-1 group-title="Movie" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo-pop-us.png", HBO POP
-http://200.24.206.132:8000/play/a012/index.m3u8
-#EXTINF:-1 group-title="Movie" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo-plus-us.png", HBO Plus
-http://200.24.206.132:8000/play/a0cm/index.m3u8
-#EXTINF:-1 group-title="Movie" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_signature_asia.png", HBO Signature
-http://200.24.206.132:8000/play/a0cn/index.m3u8
-#EXTINF:-1 group-title="Movie" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo-xtreme-us.png", HBO XTREME
-http://200.24.206.132:8000/play/a0cl/index.m3u8
-#EXTINF:-1 group-title="Movie" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-movies-us-uk.png", Sony Movie
-http://200.24.206.132:8000/play/a00v/index.m3u8
 
+#EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/U4MwDv1.jpg", HISTORY 2 
+http://168.227.22.18:1935/live/mobile-157/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/YKz92Tm.jpg", FILM & ART
+http://168.227.22.18:1935/live/mobile-142/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/zd0xVpG.jpg", ACTION MOVIE
+http://stitcher.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=1234567890&deviceId=1234567890&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://i.imgur.com/zvaxiWq.jpg", BOLLYWOOD HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 
 
 #EXTINF:-1 tvg-id="animaxhd" group-title="Carttoon" tvg-logo="https://www.lyngsat.com/logo/tv/bb/boomerang_th.png", Boomerang
