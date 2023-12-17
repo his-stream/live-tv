@@ -107,8 +107,7 @@ https://ctrl.laotv.la/live/Bsport2/index.m3u8
 https://ctrl.laotv.la/live/TSport1/index.m3u8
 #EXTINF:-1 group-title="Football" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-2-th.png", True EPL2
 https://ctrl.laotv.la/live/TSport2/index.m3u8
-#EXTINF:-1 group-title="Football" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230609/video/20b89491-9c17-4a31-a050-193a8ba939bd.png", PPTV HD36
-https://ctrl.laotv.la/live/PPTVHD/index.m3u8
+
 #EXTINF:-1 group-title="Football" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-1-in.png", SonySport1
 https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
 #EXTINF:-1 group-title="Football" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-2-in.png", SonySport2
@@ -179,6 +178,9 @@ https://ctrl.laotv.la/live/TNN24/index.m3u8
 https://ctrl.laotv.la/live/JKN18/index.m3u8
 #EXTINF:-1 group-title="Thailand" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Ch-7-HD-Logo-crop.png", CH7 HD
 https://ctrl.laotv.la/live/Thai7/index.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkERa6Af9sMwZwrtTSkiSSrKT99MfWDvZnEg&usqp=CAU", PPTV HD36
+https://ctrl.laotv.la/live/PPTVHD/index.m3u8
+
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png", HBO HD
 https://ctrl.laotv.la/live/HBO/index.m3u8
