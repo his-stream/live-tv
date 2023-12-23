@@ -9,6 +9,31 @@ https://drm-epl-vidio-com-epl-2.akamaized.net/out/v1/213998e62d2c4e5f9cf9e832d45
 https://live.kh.unitysystem.net/live/towntv.stream/chunklist.m3u8
 
 
+#EXTINF:-1 group-title="BZ SPORT" tvg-logo="https://i.imgur.com/mbTUHXE.jpg", TRUE PREMIER 1
+https://sv2.wacthstream.com/wacth_tv/600_eng1/playlist.m3u8
+
+#EXTINF:-1 group-title="BZ SPORT" tvg-logo="https://i.imgur.com/mbTUHXE.jpg", TRUE PREMIER 2
+https://sv2.wacthstream.com/wacth_tv/602_eng2/playlist.m3u8
+
+#EXTINF:-1 group-title="BZ SPORT" tvg-logo="https://i.imgur.com/mbTUHXE.jpg", TRUE PREMIER 3
+https://sv2.wacthstream.com/wacth_tv/603_eng3/playlist.m3u8
+
+#EXTINF:-1 group-title="BZ SPORT" tvg-logo="https://i.imgur.com/mbTUHXE.jpg", TRUE PREMIER 4
+https://sv2.wacthstream.com/wacth_tv/604_eng4/playlist.m3u8
+
+#EXTINF:-1 group-title="BZ SPORT" tvg-logo="https://i.imgur.com/mbTUHXE.jpg", TRUE PREMIER 5 https://sv2.wacthstream.com/wacth_tv/605_eng5/playlist.m3u8
+
+#EXTINF:-1 group-title="BZ SPORT" tvg-logo="https://i.imgur.com/Xohe3XY.jpg", Star Sports Select 1
+http://watchindia.net:8880/live/dharm23/qVir1fHdBn/1070.ts
+
+#EXTINF:-1 group-title="BZ SPORT" tvg-logo="https://i.imgur.com/Xohe3XY.jpg", Star Sports Select 1
+http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2292.ts
+
+#EXTINF:-1 group-title="BZ SPORT" tvg-logo="https://i.imgur.com/1BLr0dE.jpg", Star Sports Select 2
+http://watchindia.net:8880/live/dharm23/qVir1fHdBn/1071.ts
+
+
+
 #EXTINF:-1 group-title="BZ SPORT" tvg-logo="https://i.postimg.cc/WbMJGySw/IMG-20231018-132957.png", DUBAI SPORT 1
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
 
