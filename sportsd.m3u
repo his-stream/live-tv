@@ -9,6 +9,23 @@ https://drm-epl-vidio-com-epl-2.akamaized.net/out/v1/213998e62d2c4e5f9cf9e832d45
 https://live.kh.unitysystem.net/live/towntv.stream/chunklist.m3u8
 
 
+#EXTINF:-1 group-title="BZ SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlAwdx48QPEiQHrHIz-7t8P35X9cJZrvsxjQ&usqp=CAU", SPORT TV 1
+http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=78797&extension=m3u8
+
+#EXTINF:-1 group-title="BZ SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlAwdx48QPEiQHrHIz-7t8P35X9cJZrvsxjQ&usqp=CAU", SPORT TV 2
+http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=78796&extension=m3u8
+
+#EXTINF:-1 group-title="BZ SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlAwdx48QPEiQHrHIz-7t8P35X9cJZrvsxjQ&usqp=CAU", SPORT TV 3
+http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=78795&extension=m3u8
+
+#EXTINF:-1 group-title="BZ SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlAwdx48QPEiQHrHIz-7t8P35X9cJZrvsxjQ&usqp=CAU", SPORT TV 4
+http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=78794&extension=m3u8
+
+#EXTINF:-1 group-title="BZ SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlAwdx48QPEiQHrHIz-7t8P35X9cJZrvsxjQ&usqp=CAU", SPORT TV
+http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=78793&extension=m3u8
+
+
+
 #EXTINF:-1 group-title="BZ SPORT" tvg-logo="https://i.imgur.com/mbTUHXE.jpg", TRUE PREMIER 1
 https://sv2.wacthstream.com/wacth_tv/600_eng1/playlist.m3u8
 
