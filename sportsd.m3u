@@ -21,7 +21,8 @@ https://sv2.wacthstream.com/wacth_tv/603_eng3/playlist.m3u8
 #EXTINF:-1 group-title="BZ SPORT" tvg-logo="https://i.imgur.com/mbTUHXE.jpg", TRUE PREMIER 4
 https://sv2.wacthstream.com/wacth_tv/604_eng4/playlist.m3u8
 
-#EXTINF:-1 group-title="BZ SPORT" tvg-logo="https://i.imgur.com/mbTUHXE.jpg", TRUE PREMIER 5 https://sv2.wacthstream.com/wacth_tv/605_eng5/playlist.m3u8
+#EXTINF:-1 group-title="BZ SPORT" tvg-logo="https://i.imgur.com/mbTUHXE.jpg", TRUE PREMIER 5 
+https://sv2.wacthstream.com/wacth_tv/605_eng5/playlist.m3u8
 
 #EXTINF:-1 group-title="BZ SPORT" tvg-logo="https://i.imgur.com/Xohe3XY.jpg", Star Sports Select 1
 http://watchindia.net:8880/live/dharm23/qVir1fHdBn/1070.ts
@@ -330,7 +331,7 @@ https://etslive-2-vidio-com.akamaized.net/drm/dash/9430_stream.mpd
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/mZcqCqrx/20220927-065156.png",Sony Ten 2
 https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
-#EXTINF:-1 group-title="SPRTS" tvg-logo="https://i.postimg.cc/xTM4FzHt/20220927-065152.png",Sony Ten 3
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/xTM4FzHt/20220927-065152.png",Sony Ten 3
 https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2yjjDqdy/IMG-20231018-131656.png" group-title="SPORTS",tntsport1
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
